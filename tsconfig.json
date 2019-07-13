@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "module": "commonjs",
+    "target": "ES2017",
+    "outDir": "lib",
+    "watch": false,
+    "pretty": true,
+    "lib": ["ES2015"]
+  },
+  "include": [
+    "src/**/*.ts"
+  ]
+}
